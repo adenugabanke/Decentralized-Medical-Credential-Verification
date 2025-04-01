@@ -9,3 +9,5 @@ S
 #contracts/practitioner-identit.clar,4/d/4d685aa953ed3d2cdb605452f403bdc3d8473d86
 Y
 )contracts/qualification-verification.clar,3/0/304dbcf258ceda05728383920c765f07f210696e
+V
+&contracts/specialty-certification.clar,f/a/fa27043b9804064a972ba773fddd1051b47da7b4
