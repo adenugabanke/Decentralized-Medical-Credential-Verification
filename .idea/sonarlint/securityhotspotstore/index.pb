@@ -3,3 +3,11 @@
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 M
 contracts/license-status.clar,1/1/110cde5e61bba1a42fc6cdd96a8166ac217d51ff
+L
+tests/license-status.test.ts,1/1/1151ddba92c95ce81ac4d3fa3c2c8a9502dd59fa
+S
+#contracts/practitioner-identit.clar,4/d/4d685aa953ed3d2cdb605452f403bdc3d8473d86
+Y
+)contracts/qualification-verification.clar,3/0/304dbcf258ceda05728383920c765f07f210696e
+V
+&contracts/specialty-certification.clar,f/a/fa27043b9804064a972ba773fddd1051b47da7b4
